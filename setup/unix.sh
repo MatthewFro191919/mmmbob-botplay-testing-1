@@ -30,4 +30,5 @@ haxelib git newgrounds https://github.com/ninjamuffin99/Newgrounds 31fd66bc6e501
 haxelib install polymod
 haxelib remove jsonpath
 haxelib git jsonpath https://github.com/EliteMasterEric/jsonpath 7a24193717b36393458c15c0435bb7c4470ecdda
+haxelib git thx.core https://github.com/fponticelli/thx.core
 echo Finished!
